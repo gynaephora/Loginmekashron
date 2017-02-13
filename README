@@ -1,1 +1,4 @@
 
+Client server application that allows you to make calls to the server via SOAP protocol. 
+It consists of 2 fields: username and password.
+If success or failure of the connection and connect to the service reports an error.
